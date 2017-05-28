@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Speaks Fragment -->
+    <string name="greeting_bulgarian_hello">Zdravey!</string>
+
+    <string name="phrase_bulgarian_how_are_you">Kak si?</string>
+
+    <string name="phrase_bulgarian_how_much">Kolko struva?</string>
+
+    <string name="phrase_bulgarian_i_need_help">Imam nuzda ot pomosht!</string>
+
+    <string name="phrase_bulgarian_i_need_free_wifi">Imam nuzda ot bezplaten WiFi.</string>
+
+</resources>

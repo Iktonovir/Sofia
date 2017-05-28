@@ -1,0 +1,109 @@
+<resources>
+
+    <string name="app_name">Sofia</string>
+
+    <!-- Category name for Greens -->
+    <string name="category_greens">GREENS</string>
+
+    <!-- Category name for Stones -->
+    <string name="category_stones">STONES</string>
+
+    <!-- Category name for Acts -->
+    <string name="category_acts">ACTS</string>
+
+    <!-- Category name for Speaks -->
+    <string name="category_speaks">SPEAKS</string>
+
+    <!-- Greens Fragment -->
+
+    <string name="borisova_about">Borisova Garden is the most popular green space in Sofia and it is wort it.
+        \nA vast amount of green at the heart of the city.</string>
+
+    <string name="borisova_get_there">Bus and trolleybus stop \'Orlov most\'.
+        \nBuses 76, 84, 184, 280, 204, 213, 304, 306, 505, 604. \nTrolleybuses 4, 5, 8, 11.</string>
+
+    <string name="botanical_about">The University Botanical Garden is rather unknown to most Bulgarians.
+        \nIt is a small, beautiful, and tranquil place.</string>
+
+    <string name="botanical_get_there">Trolleybus stop \'pl. Vasil Levski\'. \nTrolleybuses 9, 11.</string>
+
+    <string name="south_park_about">Renovated and gorgeous,
+        the South Park is one of the most colorful green spaces in Sofia.</string>
+
+    <string name="south_park_get_there">Bus stop \'Yuzhen park\'. \nBus 102.</string>
+
+    <string name="vitosha_about">Literally leave the city to oversee the city.
+        \nVitosha National Park is worth every second you devote to it.</string>
+
+    <string name="vitosha_get_there">Bus stop \'Zlatni mostove\'. \nBus 63.</string>
+
+    <string name="loven_about">Loven Park is one of the most unknown green spaces in the city.
+        \nA very people-free place.</string>
+
+    <string name="loven_get_there">Bus stop \'Gara pioner\'. \nBuses 94, 102, 88.</string>
+
+    <!-- Stones Fragment -->
+
+    <string name="church_petka_about">Small and surrounded by giants,
+        the Church of St Petka is arguably the unique church in Sofia.</string>
+
+    <string name="church_petka_get_there">Metro station \'Serdika\'. \nMetro lines 1 and 2.</string>
+
+    <string name="synagogue_about">With Bulgaria being the only European nation to save its Jews,
+        the Sofia Synagogue is a place of extra special significance.</string>
+
+    <string name="synagogue_get_there">Tram stop \'Centralni hali\'. \nTrams 4, 12, 18.</string>
+
+    <string name="mosque_about">The Bashi mosque cements Sofia\'s history of religious tolerance.
+        \nThere are a church, a synagogue, and a mosque located within less than 500 meters from one another.</string>
+
+    <string name="mosque_get_there">Metro station \'Serdika\'. \nMetro lines 1 and 2.</string>
+
+    <string name="bells_about">Massive and glorious, the Bells monument celebrates peace.
+        \nIt is dedicated to the children of the world.</string>
+
+    <string name="bells_get_there">Bus stop \'Mestnost Kambanite\'. \nBuses 111, 314, 112.</string>
+
+    <string name="ministry_about">When it comes to architectural beauty,
+        the Ministry of Agriculture is one of the leaders in Sofia.</string>
+
+    <string name="ministry_get_there">Tram stop \'pl. Makedonia\'. \nTrams 4, 5, 8, 10.</string>
+
+    <!-- Acts Fragment -->
+    <string name="sofia_theatre_about">Sofia Theatre is the only theatre in Sofia offering productions with English subtitles.</string>
+
+    <string name="sofia_theatre_get_there">Bus and Tram stop \'Teatur Sofia\'.
+        \nBuses 75, 213, 11, 404. \nTrams 20, 22, 23.</string>
+
+    <string name="sofia_opera_about">Sofia Opera and Ballet always offers extraordinary productions.
+        Indulge in the classics.</string>
+
+    <string name="sofia_opera_get_there">Tram stop \'Natsionalna Opera\'. \nTrams 20, 22, 23.</string>
+
+    <string name="ndk_about">National Palace of Culture is the most obvious choice for the arts. And for a reason.
+        Cinema and theatre festivals. Bulgarian and international productions.</string>
+
+    <string name="ndk_get_there">Metro station \'NDK\'. Metro line 2.
+        \nTram stop \'NDK\'. Trams 1, 6, 7.</string>
+
+    <string name="odeon_about">Ditch blockbusters. Kino Odeon plays classics and top rated indie films.
+        English subtitles are often included.</string>
+
+    <string name="odeon_get_there">Bus and trolleybus stop \'Kino Odeon\'.
+        \nBus 94. Trolleybuses 1, 2, 5, 8.</string>
+
+    <string name="red_house_about">The Red House Centre for Culture and Debate constantly offers art installations of all sorts.</string>
+
+    <string name="red_house_get_there">Tram stop \'bul. Vasil Levski\'. \nTrams 10, 12, 18.</string>
+
+    <!-- Speaks Fragment English-->
+    <string name="greeting_hello">Hello!</string>
+
+    <string name="phrase_how_are_you">How are you?</string>
+
+    <string name="phrase_how_much">How much?</string>
+
+    <string name="phrase_i_need_help">I need help.</string>
+
+    <string name="phrase_i_need_free_wifi">I need free WiFi.</string>
+</resources>
